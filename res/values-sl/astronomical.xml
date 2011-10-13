@@ -2,141 +2,141 @@
 <!-- Copyright Harshad RJ. Made available under the public domain without any restrictions -->
 <resources>
   <string-array name="solar_system">
-    <item>Sun</item>
-    <item>Moon</item>
-    <item>Mercury</item>
-    <item>Venus</item>
+    <item>Sonce</item>
+    <item>Luna</item>
+    <item>Merkur</item>
+    <item>Venera</item>
     <item>Mars</item>
     <item>Jupiter</item>
     <item>Saturn</item>
-    <item>Uranus</item>
-    <item>Neptune</item>
-    <item>Antisolar Point</item>
+    <item>Uran</item>
+    <item>Neptun</item>
+    <item>Antisolarna Točka</item>
   </string-array>
   
   <string-array name="constellations">
     <item>Andromeda</item>
-    <item>Antlia</item>
-    <item>Apus</item>
-    <item>Aquila</item>
-    <item>Aquarius</item>
-    <item>Ara</item>
-    <item>Aries</item>
-    <item>Auriga</item>
-    <item>Bootes</item>
-    <item>Caelum</item>
-    <item>Camelopardalis</item>
-    <item>Capricornus</item>
-    <item>Carina</item>
-    <item>Cassiopeia</item>
-    <item>Centaurus</item>
-    <item>Cepheus</item>
-    <item>Cetus</item>
-    <item>Chamaeleon</item>
-    <item>Circinus</item>
-    <item>Canis Major</item>
-    <item>Canis Minor</item>
-    <item>Cancer</item>
-    <item>Columba</item>
-    <item>Coma Berenices</item>
-    <item>Corona Australis</item>
-    <item>Corona Borealis</item>
-    <item>Crater</item>
-    <item>Crux</item>
-    <item>Corvus</item>
-    <item>Canes Venatici</item>
-    <item>Cygnus</item>
-    <item>Delphinus</item>
-    <item>Dorado</item>
-    <item>Draco</item>
-    <item>Equuleus</item>
-    <item>Eridanus</item>
-    <item>Fornax</item>
-    <item>Gemini</item>
-    <item>Grus</item>
-    <item>Hercules</item>
-    <item>Horologium</item>
-    <item>Hydra</item>
-    <item>Hydrus</item>
-    <item>Indus</item>
-    <item>Lacerta</item>
-    <item>Leo</item>
-    <item>Lepus</item>
-    <item>Libra</item>
-    <item>Leo Minor</item>
-    <item>Lupus</item>
-    <item>Lynx</item>
-    <item>Lyra</item>
-    <item>Mensa</item>
-    <item>Microscopium</item>
-    <item>Monoceros</item>
-    <item>Musca</item>
-    <item>Norma</item>
-    <item>Octans</item>
-    <item>Ophiuchus</item>
+    <item>Zračna črpalka</item>
+    <item>Rajska ptica</item>
+    <item>Orel</item>
+    <item>Vodnar</item>
+    <item>Oltar</item>
+    <item>Oven</item>
+    <item>Voznik</item>
+    <item>Volar</item>
+    <item>Dletce</item>
+    <item>Žirafa</item>
+    <item>Kozorog</item>
+    <item>Gredelj</item>
+    <item>Kasiopeja</item>
+    <item>Kentaver</item>
+    <item>Kefej</item>
+    <item>Kit</item>
+    <item>Kameleon</item>
+    <item>Šestilo</item>
+    <item>Veliki pes</item>
+    <item>Mali pes</item>
+    <item>Rak</item>
+    <item>Golob</item>
+    <item>Berenikini kodri</item>
+    <item>Južna krona</item>
+    <item>Severna krona</item>
+    <item>Čaša</item>
+    <item>Južni križ</item>
+    <item>Krokar</item>
+    <item>Lovski psi</item>
+    <item>Labod</item>
+    <item>Delfin</item>
+    <item>Zlata riba</item>
+    <item>Zmaj</item>
+    <item>Žrebiček</item>
+    <item>Eridan</item>
+    <item>Peč</item>
+    <item>Dvojčka</item>
+    <item>Žerjav</item>
+    <item>Herkul</item>
+    <item>Ura</item>
+    <item>Vodna kača</item>
+    <item>Mala vodna kača</item>
+    <item>Indijanec</item>
+    <item>Kuščarica</item>
+    <item>Lev</item>
+    <item>Zajec</item>
+    <item>Tehtnica</item>
+    <item>Mali lev</item>
+    <item>Volk</item>
+    <item>Ris</item>
+    <item>Lira</item>
+    <item>Miza</item>
+    <item>Mikroskop</item>
+    <item>Enorog</item>
+    <item>Muha</item>
+    <item>Kotomer</item>
+    <item>Oktant</item>
+    <item>Kačenosec</item>
     <item>Orion</item>
-    <item>Pavo</item>
-    <item>Pegasus</item>
-    <item>Perseus</item>
-    <item>Phoenix</item>
-    <item>Pictor</item>
-    <item>Piscis Austrinus</item>
-    <item>Pisces</item>
-    <item>Puppis</item>
-    <item>Pyxis</item>
-    <item>Reticulum</item>
-    <item>Sculptor</item>
-    <item>Scorpius</item>
-    <item>Scutum</item>
-    <item>Serpens</item>
-    <item>Sextans</item>
-    <item>Sagitta</item>
-    <item>Sagittarius</item>
-    <item>Taurus</item>
-    <item>Telescopium</item>
-    <item>Triangulum Australe</item>
-    <item>Triangulum</item>
-    <item>Tucana</item>
-    <item>Ursa Major</item>
-    <item>Ursa Minor</item>
-    <item>Vela</item>
-    <item>Virgo</item>
-    <item>Volans</item>
-    <item>Vulpecula</item>
+    <item>Pav</item>
+    <item>Pegaz</item>
+    <item>Perzej</item>
+    <item>Feniks</item>
+    <item>Slikar</item>
+    <item>Južna riba</item>
+    <item>Ribi</item>
+    <item>Krma</item>
+    <item>Kompas</item>
+    <item>Mreža</item>
+    <item>Kipar</item>
+    <item>Škorpijon</item>
+    <item>Ščit</item>
+    <item>Kača</item>
+    <item>Sekstant</item>
+    <item>Puščica</item>
+    <item>Strelec</item>
+    <item>Bik</item>
+    <item>Daljnogled</item>
+    <item>Južni trikotnik</item>
+    <item>Trikotnik</item>
+    <item>Tukan</item>
+    <item>Veliki medved</item>
+    <item>Mali medved</item>
+    <item>Jadro</item>
+    <item>Devica</item>
+    <item>Leteča riba</item>
+    <item>Lisička</item>
   </string-array> 
   
   <string-array name="majortype_names_star">
-    <item>Star</item>
-    <item>Double star</item>
+    <item>Zvezda</item>
+    <item>Dvojna zvezda</item>
   </string-array>
 
   <string-array name="majortype_names_star_group">
-    <item>Cluster</item>
-    <item>Globular Cluster</item>
-    <item>Open Cluster</item>
-    <item>Assoc. of Stars</item>
+    <item>Kopica</item>
+    <item>Kroglasta Kopica</item>
+    <item>Odprta Kopica</item>
+    <item>Skupina Zvezd</item>
   </string-array>
 
   <string-array name="majortype_names_galaxy">
-    <item>Galaxy</item>
+    <item>Galaksija</item>
   </string-array>
 
   <string-array name="majortype_names_ism">
-    <item>Supernova Remnant</item>
-    <item>HII region</item>
-    <item>Planetary Nebula</item>
-    <item>Reflection Nebula</item>
+    <item>Ostanek Supernove</item>
+    <item>HII območje</item>
+    <item>Planetarna Meglica</item>
+    <item>Odsevna Meglica</item>
   </string-array>
 
   <string-array name="moon_phase_descr">
-    <item>New Moon</item>
-    <item>Waxing Crescent</item>
-    <item>First Quarter</item>
-    <item>Waxing Gibbous</item>
-    <item>Full Moon</item>
-    <item>Waning Gibbous</item>
-    <item>Last Quarter</item>
-    <item>Waning Crescent</item>
+    <item>Mlaj</item>
+    <item>Vzhajajoča Luna</item>
+    <item>Prvi Krajec</item>
+    <item>Naraščajoča Luna</item>
+    <item>Ščip</item>
+    <item>Pojemajoča Luna</item>
+    <item>Zadnji Krajec</item>
+    <item>Zahajajoča Luna</item>
   </string-array>
 
 </resources>
